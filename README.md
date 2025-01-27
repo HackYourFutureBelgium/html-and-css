@@ -1,6 +1,6 @@
 # HTML & CSS
 
-> ![html & css](./assets/html-css.png)
+> ![html & css](./planning/mainP.gif)
 
 _HTML & CSS_: HTML (the Hypertext Markup Language) and CSS (Cascading Style
 Sheets) are two of the core technologies for building Web pages. HTML provides
