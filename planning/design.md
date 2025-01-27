@@ -2,8 +2,7 @@
 
 ## Project's design overview
 
-> Loruki is a cloud platform with a simple, user-friendly design, making it easy
-> to navigate and manage applications effortlessly.
+> This is my Portfolio for the You that  want to know about me as a frontend developer
 
 ---
 
@@ -11,12 +10,12 @@
 
 ### Home page
 
-![Loruki's home wireframe](./home-wireframe.png)
+![My  Portfolio](./mainP.gif)
 
 ### Features page
 
-![Loruki's features wireframe](./features-wireframe.png)
+![My Portfolio  features wireframe](./featureP.gif)
 
 ### Docs page
 
-![Loruki's docs wireframe](./docs-wireframe.png)
+![My Portfolio docs wireframe](./back2.gif)

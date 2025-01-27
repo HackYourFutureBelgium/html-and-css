@@ -1,6 +1,6 @@
 # Constraints
 
-Some boundaries around our project.
+Some boundaries around ny project.
 
 ## External
 
@@ -8,5 +8,5 @@ Some boundaries around our project.
 
 ## Internal
 
-- limited skills or team experience: the team may lack expertise in web design,
+- limited skills or individual experience: I may lack expertise in web design,
   development, or content creation.

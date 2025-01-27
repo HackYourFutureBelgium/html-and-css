@@ -41,14 +41,12 @@ My-Portfolio!
 > these are necessary for basic usability
 
 - As a user I want to see the logo and to have a navigation so I need a header
-- As a user I want to see the description and the image of the features so I
-  need a head section
-- As a user I want to see the description and the image of the **Loruki
-  Platform** so I need a sub head section
-- As a user I want to see the features of the platform so I need a features
-  section
-- As a user I want to see the logo and have access to navigation and the way to
-  contact the owner so I need a footer
+- As a user I want to see the introduction features so I
+  need a introduction section
+- As a user I want to see the skills so I need skill section
+- As a user I want to see projects and I need project section
+- As a user I want to see the contact and form so I need contact section
+- As a user I want to  see footer for social media so I need a footer
 
 ### Should-Haves
 
@@ -64,17 +62,6 @@ My-Portfolio!
 
 ## Docs page
 
-### Must-Haves
-
-> these are necessary for basic usability
-
-- As a user I want to see the logo and to have a navigation so I need a header
-- As a user I want to see the description and the image of the docs so I need a
-  head section
-- As a user I want to see more Essential and Deployment info links so i need a
-  Essentials and Introduction card
-- As a user I want to see the logo and have access to navigation and the way to
-  contact the owner so I need a footer
 
 ### Should-Haves
 
