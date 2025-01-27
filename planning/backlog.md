@@ -1,6 +1,6 @@
 # Backlog
 
-That's group-2's backlog!
+My-Portfolio!
 
 ---
 
@@ -11,15 +11,13 @@ That's group-2's backlog!
 > these are necessary for basic usability
 
 - As a user I want to see the logo and to have a navigation so I need a header
-- As a user I want to navigate easily to features so I need a button
-- As a user I want to request a demo so I need a form
-- As a user I want to see the cloud platform stats
-- As a user I want to know how to use and deploy my project so I need CLI
-  information
+- As a user I want to navigate easily to see projects so I need a button
+- As a user I want to see demos  so I need a main section
 - As a user I want to know what languages are supported so need a supported
   language section
 - As a user I want to see the logo and have access to navigation and the way to
   contact the owner so I need a footer
+- As user I need to contact the Portfolio owner so I need footer  
 
 ### Should-Haves
 
