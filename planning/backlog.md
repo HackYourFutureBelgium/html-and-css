@@ -12,12 +12,12 @@ My-Portfolio!
 
 - As a user I want to see the logo and to have a navigation so I need a header
 - As a user I want to navigate easily to see projects so I need a button
-- As a user I want to see demos  so I need a main section
+- As a user I want to see demos so I need a main section
 - As a user I want to know what languages are supported so need a supported
   language section
 - As a user I want to see the logo and have access to navigation and the way to
   contact the owner so I need a footer
-- As user I need to contact the Portfolio owner so I need footer  
+- As user I need to contact the Portfolio owner so I need footer
 
 ### Should-Haves
 
@@ -41,12 +41,12 @@ My-Portfolio!
 > these are necessary for basic usability
 
 - As a user I want to see the logo and to have a navigation so I need a header
-- As a user I want to see the introduction features so I
-  need a introduction section
+- As a user I want to see the introduction features so I need a introduction
+  section
 - As a user I want to see the skills so I need skill section
 - As a user I want to see projects and I need project section
 - As a user I want to see the contact and form so I need contact section
-- As a user I want to  see footer for social media so I need a footer
+- As a user I want to see footer for social media so I need a footer
 
 ### Should-Haves
 
@@ -61,7 +61,6 @@ My-Portfolio!
 - As a user user I want to have a dark and white theme
 
 ## Docs page
-
 
 ### Should-Haves
 

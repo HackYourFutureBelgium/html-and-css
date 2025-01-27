@@ -10,8 +10,8 @@ copy-paste this checklist into a new `deliverable` issue.
 - project board : `Deliverables`
 
 ```md
-- [ ] [repo](https://github.com/_/_) (with a complete README)
-- [ ] [live demo](https://_.github.io/_) (GitHub Pages)
+- [ ] [repo](https://github.com/harley-dane/Portfolio-H) (with a complete README)
+- [ ] [live demo]([https://_.github.io/](https://harley-dane.github.io/Portfolio-H/)_) (GitHub Pages)
 - [/planning](https://github.com/_/_/tree/master/planning)
   - [ ] constraints
   - [ ] communication plan

@@ -2,7 +2,8 @@
 
 ## Project's design overview
 
-> This is my Portfolio for the You that  want to know about me as a frontend developer
+> This is my Portfolio for You that want to know about me as a frontend
+> developer
 
 ---
 

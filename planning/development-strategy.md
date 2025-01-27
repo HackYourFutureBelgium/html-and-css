@@ -1,6 +1,6 @@
 # My Portfolio
 
-Portfolio will show you  my project  and how you you  can contact me 
+Portfolio will show you my project and how you you can contact me
 
 ---
 
@@ -192,7 +192,7 @@ this feature developed on a branch `features-section`
 - style `features-main my-2` class with text-align and padding
 - style `container grid grid-3` class with grid
 - style `i` tag and a `p` tag
-  
+
 ### Footer
 
 this feature developed on a branch `docs-footer`
