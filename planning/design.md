@@ -10,7 +10,7 @@
 
 ## Wireframe(s)
 
-### Home page
+### Home pagel
 
 ![My  Portfolio](./head.gif)
 
